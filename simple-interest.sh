@@ -1,5 +1,11 @@
 #!/usr/bin/bash
 
+# Author     : Alienator
+# Created on : 14-10-2024
+# Purpose    : For completing EdX course
+# Description: This bash code calculates the simple interest based on user details
+
+
 # Clearing Terminal for better interactiveness
 clear
 

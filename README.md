@@ -1,6 +1,14 @@
 # Edx-Git-and-GitHub-Final-project
 This Repo contains the necessary files required for the completion on my Git and GitHub course on EDX.
 
+A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
+Input:
+   p, principal amount
+   t, time period in years
+   r, annual rate of interest
+Output
+   simple interest = p*t*r
+
 The bash code enables the user to enter 3 values namely:
   1. Principle
   2. Rate of interest
@@ -15,4 +23,5 @@ These Values will get displayed to the user on terminal or Console.
 
 # Possible Update
   1. Continuous calculation ability prompts user to "continue or quit".
-  2. Responds accordingly. 
+  2. Responds accordingly.
+
